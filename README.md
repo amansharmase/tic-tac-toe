@@ -1,7 +1,8 @@
 # tic-tac-toe
 A simple command line tic-tac-toe game
 -----
-To run it on mac OS
+To run it on ### mac OS
+
 Step-1 : copy these in your terminal, press enter
 ````
 git clone https://github.com/amansharmase/tic-tac-toe.git
